@@ -138,9 +138,9 @@ while True:
     
     30 * 28 = 840
     
-    """""" Maths
-This code will allow you to Add, Subtract, Divide and Multiply 2 numbers """
-while True:
+    Maths
+    This code will allow you to Add, Subtract, Divide and Multiply 2 numbers 
+    while True:
 	
     print("_________________")
     print("|_______________|")
@@ -217,7 +217,7 @@ while True:
     
     print("----------------------------------------------------------------")
     
-    """
+    
     You will get the answer of the 2 numbers you have chosen
     E.g. We will use 30 and 28
     + Output:
